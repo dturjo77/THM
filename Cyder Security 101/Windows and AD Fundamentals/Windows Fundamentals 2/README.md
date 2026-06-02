@@ -1,5 +1,3 @@
----
-
 ### Lab: Windows Fundamentals 2
 
 ## Date Completed: 2 June 2026
