@@ -1,5 +1,8 @@
+## Lab: Windows Fundamentals 1
+### Date Completed: 1 June 2026
+### Tools: tryhackme attack box, Windows 10 
 
-***Title: Windows Fundamentals Room 1 Writeup***
+---
 
 **Overview:**
 This room covers basic Windows operating system concepts useful for desktop users, administrators, and blue‑team/forensic work. Main topics covered are Windows editions, the desktop GUI, the NTFS file system, the System32 folder, user accounts & permissions, User Account Control (UAC), Settings vs. Control Panel, and Task Manager.
@@ -46,3 +49,5 @@ This room covers basic Windows operating system concepts useful for desktop user
 
 **Conclusion:**
 This room provides a concise, practical introduction to Windows fundamentals: OS versions, the GUI, NTFS, critical folders, user management, UAC, settings, and Task Manager. From a blue‑team perspective, focus on NTFS permissions and ADS, System32 integrity verification, and monitoring UAC/events for suspicious activity.
+
+---
