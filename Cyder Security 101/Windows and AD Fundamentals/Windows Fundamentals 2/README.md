@@ -2,6 +2,7 @@
 ***Lab: Windows Fundamentals 2***
 
 **Date Completed: 2 June 2026**
+
 *Tools: tryhackme attack box, Windows 10* 
 
 ---
