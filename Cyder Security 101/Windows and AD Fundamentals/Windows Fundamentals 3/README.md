@@ -1,10 +1,10 @@
-## Lab: Windows Fundamentals 3
+# Lab: Windows Fundamentals 3
 ### Date Completed: 4 June 2026
 ### Tools: tryhackme attack box, Windows 10 
 
 ---
 
-# TryHackMe: Windows Security & Core Features Complete Notes
+## TryHackMe: Windows Security & Core Features Complete Notes
 
 ## Task 1: Windows Updates
 
