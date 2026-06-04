@@ -1,10 +1,12 @@
-এখানে তোমার প্রদান করা সবকটি টাস্ক (Task 2 থেকে Task 9) এর ওপর ভিত্তি করে একটি অত্যন্ত বিস্তারিত এবং গোছানো স্টাডি নোট তৈরি করে দেওয়া হলো। প্রতিটি টপিকের ভেতরের মেকানিজম এবং গুরুত্বপূর্ণ কমান্ডগুলো সুন্দরভাবে সাজানো হয়েছে:
+## Lab: Windows Fundamentals 3
+### Date Completed: 4 June 2026
+### Tools: tryhackme attack box, Windows 10 
 
 ---
 
 # TryHackMe: Windows Security & Core Features Complete Notes
 
-## Task 2: Windows Updates
+## Task 1: Windows Updates
 
 Windows Update is a critical maintenance service provided by Microsoft to automatically deliver security patches, feature enhancements, bug fixes, and system definitions to the operating system.
 
@@ -23,7 +25,7 @@ Windows Update is a critical maintenance service provided by Microsoft to automa
 
 ---
 
-## ## Task 3: Windows Security Overview
+## Task 2: Windows Security Overview
 
 Windows Security (formerly known as Windows Defender Security Center) serves as the unified dashboard to monitor and manage all built-in security features.
 
@@ -37,7 +39,7 @@ Windows Security (formerly known as Windows Defender Security Center) serves as 
 
 ---
 
-## ## Task 4: Virus & Threat Protection
+## Task 3: Virus & Threat Protection
 
 This is the core Antivirus component governed by Microsoft Defender Antivirus. It handles both reactive scanning and proactive threat mitigation.
 
@@ -63,7 +65,7 @@ This is the core Antivirus component governed by Microsoft Defender Antivirus. I
 
 ---
 
-## ## Task 5: Firewall & Network Protection
+## Task 4: Firewall & Network Protection
 
 A firewall acts as a digital barrier or "security guard" that controls the flow of inbound and outbound network traffic based on strict port and protocol rules.
 
@@ -89,7 +91,7 @@ Windows applies specific security postures depending on the type of network conn
 
 ---
 
-## ## Task 6: App & Browser Control
+## Task 5: App & Browser Control
 
 This layer manages system-wide protection mechanisms against web-based exploits, malicious software drops, and phishing attempts.
 
@@ -98,7 +100,7 @@ This layer manages system-wide protection mechanisms against web-based exploits,
 
 ---
 
-## ## Task 7: Device Security
+## Task 6: Device Security
 
 Device Security focuses on specialized isolation and hardware-level root-of-trust features that protect core operating system functions.
 
@@ -107,7 +109,7 @@ Device Security focuses on specialized isolation and hardware-level root-of-trus
 
 ---
 
-## ## Task 8: BitLocker Drive Encryption
+## Task 7: BitLocker Drive Encryption
 
 BitLocker is a full-disk encryption feature designed to protect data at rest on physical storage drives.
 
@@ -116,7 +118,7 @@ BitLocker is a full-disk encryption feature designed to protect data at rest on 
 
 ---
 
-## ## Task 9: Volume Shadow Copy Service (VSS)
+## Task 8: Volume Shadow Copy Service (VSS)
 
 The Volume Shadow Copy Service (VSS) is a critical Windows framework that coordinates blocks of data to capture consistent backup copies, known as **shadow copies** or **snapshots**, while the system is still actively running.
 
@@ -128,3 +130,7 @@ The Volume Shadow Copy Service (VSS) is a critical Windows framework that coordi
 
 
 * **The Security / Ransomware Catch:** Modern malware and ransomware strains are engineered to explicitly seek out and destroy these backup files using administrative commands (such as running `vssadmin delete shadows`). By wiping out the shadow copies, attackers ensure victims cannot simply restore their systems to a pre-encrypted state, forcing them to rely on completely decoupled offline backups.
+
+---
+
+<img width="1235" height="317" alt="image" src="https://github.com/user-attachments/assets/98f5a839-66f5-49c6-83da-f673ed2be041" />
