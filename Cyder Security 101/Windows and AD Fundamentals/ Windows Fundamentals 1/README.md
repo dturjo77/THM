@@ -1,4 +1,4 @@
-## Lab: Windows Fundamentals 1
+# Lab: Windows Fundamentals 1
 ### Date Completed: 1 June 2026
 ### Tools: tryhackme attack box, Windows 10 
 
