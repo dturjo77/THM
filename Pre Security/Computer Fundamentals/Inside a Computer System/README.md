@@ -1,3 +1,6 @@
+# Lab: Inside a Computer System
+### Date Completed: 5 June 2026
+### Tools: tryhackme box
 
 ---
 
