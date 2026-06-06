@@ -1,4 +1,4 @@
-# Lab Room: Inside a Computer System
+# Lab Room: Computer Types
 ### Date Completed: 6 June 2026
 ### Tools: tryhackme box
 
