@@ -1,3 +1,6 @@
+# Lab Room: Inside a Computer System
+### Date Completed: 6 June 2026
+### Tools: tryhackme box
 
 ---
 
@@ -74,7 +77,8 @@ We analyzed why smartphones often outlast laptops despite having smaller batteri
 * **Mechanism:** It uses a feedback loop (Sense -> Compare -> Act).
 * **Types:** Ranges from old mechanical bimetallic strips to modern "Smart" versions that use AI to learn user patterns and optimize energy consumption.
 
-
+---
+# Lab Task
 ---
 
 <img width="1572" height="742" alt="image" src="https://github.com/user-attachments/assets/46510881-b59f-4d3e-84b2-7bc4b1d8932d" />
