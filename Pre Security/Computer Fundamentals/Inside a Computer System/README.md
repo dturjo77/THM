@@ -1,4 +1,4 @@
-# Lab: Inside a Computer System
+# Lab Room: Inside a Computer System
 ### Date Completed: 5 June 2026
 ### Tools: tryhackme box
 
@@ -102,6 +102,8 @@ When you turn on a computer, it goes through a strict 5-step sequence to safely 
 * **What Happens:** Once the UEFI successfully identifies the correct boot device, it locates a small, specialized piece of software called the **bootloader**.
 * **Final Action:** The bootloader takes over and begins transferring the Operating System files from the permanent storage device (SSD/HDD) into the fast, temporary working memory (RAM). Once the OS is completely loaded into the RAM, the UEFI officially hands over control of the computer hardware to the Operating System, presenting you with your desktop interface.
 
+---
+Lab Task
 ---
 
 ## Cunnect other parts into Motherboard:
