@@ -1,5 +1,6 @@
-
-
+# Lab Room: Client-Server Basics
+### Date Completed: 7 June 2026
+### Tools: tryhackme attack box
 
 ---
 
