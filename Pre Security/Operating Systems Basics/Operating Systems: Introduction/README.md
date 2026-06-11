@@ -141,15 +141,15 @@ $$\text{THM\{new\_pc\_for\_free!\}}$$
 
 ## Task 4: Key Terminology Summary
 
-**Operating system (OS)**
+* **Operating system (OS)**
 The core software that manages hardware, applications, and all system resources.
-**Kernel space**
+* **Kernel space**
 The OS’s highly privileged area with direct hardware access, and the home of the kernel, which directly manages hardware and system resources.
-**User space**
+* **User space**
 The area where regular applications run with limited permissions for safety and system stability.
-**Graphical user interface (GUI)**
+* **Graphical user interface (GUI)**
 The visual part of the OS, windows, icons, and menus, that lets you interact through clicking and tapping.
-**Command-line interface (CLI)**
+* **Command-line interface (CLI)**
 A text-based interface where you type commands to control the system with precision and speed.
 
 
