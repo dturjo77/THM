@@ -1,6 +1,7 @@
-Operating Systems Basics
-Operating Systems: Introduction
 
+# Lab Room: Operating Systems: Introduction
+### Date Completed: 11 June 2026
+### Tools: tryhackme attack box
 
 
 ---
