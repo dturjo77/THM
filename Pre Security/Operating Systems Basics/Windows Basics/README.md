@@ -1,5 +1,6 @@
-Operating Systems Basics
-Windows Basics
+# Lab Room: Windows Basics
+### Date Completed: 14 June 2026
+### Tools: tryhackme attack box
 
 
 ---
