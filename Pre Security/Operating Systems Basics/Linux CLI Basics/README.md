@@ -1,14 +1,9 @@
-Pre Security
-Operating Systems Basics
-Linux CLI Basics
+
+# Lab Room: Linux CLI Basics
+### Date Completed: 15 June 2026
+### Tools: tryhackme attack box
 
 ---
-
-Here is a comprehensive, highly detailed technical breakdown of every single concept, command, and operational methodology discussed across all the tasks. This documentation is structured to serve as an exhaustive reference note, complete with behavioral analysis and cybersecurity use cases for each element.
-
----
-
-# Comprehensive Technical Notes: Linux CLI Fundamentals (Day 1)
 
 ## Task 1: Introduction to the Command-Line Environment
 
