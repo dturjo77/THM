@@ -1,7 +1,6 @@
-Pre Security
-Operating Systems Basics
-Windows CLI Basics
-
+# Lab Room: Windows CLI Basics
+### Date Completed: 16 June 2026
+### Tools: tryhackme attack box
 
 ---
 
