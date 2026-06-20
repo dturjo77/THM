@@ -1,7 +1,7 @@
-Pre Security
-Attacks and Defenses
-The CIA Triad
 
+# Lab Room: The CIA Triad
+### Date Completed: 20 June 2026
+### Tools: tryhackme attack box
 
 ---
 
