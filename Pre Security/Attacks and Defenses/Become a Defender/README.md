@@ -1,8 +1,6 @@
-Pre Security
-Attacks and Defenses
-Become a Defender
-
-
+# Lab Room: Become a Defender
+### Date Completed: 24 June 2026
+### Tools: tryhackme attack box
 
 ---
 
