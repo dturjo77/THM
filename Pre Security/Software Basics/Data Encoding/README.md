@@ -1,0 +1,2 @@
+Software Basics
+Data Encoding
