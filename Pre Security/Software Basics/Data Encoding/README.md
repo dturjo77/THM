@@ -1,5 +1,6 @@
-Software Basics
-Data Encoding
+# Lab Room: Data Encoding
+### Date Completed: 30 June 2026
+### Tools: tryhackme attack box
 
 ---
 
