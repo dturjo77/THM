@@ -1,4 +1,7 @@
-Database SQL Basics
+
+# Lab Room: Database SQL Basics
+### Date Completed: 1 July 2026
+### Tools: tryhackme attack box
 
 ---
 
