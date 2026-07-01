@@ -1,4 +1,7 @@
-JavaScript: Simple Demo
+
+# Lab Room: JavaScript Simple Demo
+### Date Completed: 1 July 2026
+### Tools: tryhackme attack box
 
 ---
 
