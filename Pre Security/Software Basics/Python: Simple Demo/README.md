@@ -1,9 +1,9 @@
-Python: Simple Demo
 
+# Lab Room: Python: Simple Demo
+### Date Completed: 30 June 2026
+### Tools: tryhackme attack box
 
 ---
-
-# Comprehensive Python Fundamentals Study Notes
 
 ## Project Analysis: "Guess the Number" Game
 
