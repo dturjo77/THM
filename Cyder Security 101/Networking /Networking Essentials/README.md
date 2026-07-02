@@ -1,6 +1,6 @@
-Cyber Security 101
-Networking
-Networking Essentials
+# Lab Room: Networking Essentials
+### Date Completed: 1 July 2026
+### Tools: tryhackme attack box
 
 ---
 
