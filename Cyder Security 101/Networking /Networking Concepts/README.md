@@ -1,4 +1,6 @@
-
+# Lab Room: Networking Concepts
+### Date Completed: 2 July 2026
+### Tools: tryhackme attack box
 
 ---
 
