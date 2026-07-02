@@ -1,5 +1,5 @@
 # Lab Room: Networking Essentials
-### Date Completed: 1 July 2026
+### Date Completed: 2 July 2026
 ### Tools: tryhackme attack box
 
 ---
