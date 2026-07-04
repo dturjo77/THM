@@ -201,4 +201,6 @@ Host: telnet.thm
 ```
 
 
-* Outcome: The dual line-breaks signal the end of the HTTP header package, prompting the web server to return its raw HTML code payload before closing the socket connection.
+---
+
+https://share.gemini.google/UwxoYpiNGtWw
