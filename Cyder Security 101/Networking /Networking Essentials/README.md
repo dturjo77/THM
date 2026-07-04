@@ -148,3 +148,7 @@ $$\text{Private IP : Private Port} \Longleftrightarrow \text{Public IP : Transla
 ### 3. Theoretical Port Limits
 
 Because PAT relies on mapping unique Layer 4 port allocations, a single public IPv4 address is mathematically constrained by the 16-bit size of the TCP/UDP port field. There are exactly **65,536 available ports** ($2^{16}$). Subtracting system-reserved well-known ports ($0 - 1023$), a single public IP address processed by a router with infinite performance capability can theoretically handle approximately **64,000 parallel concurrent outbound TCP connections**.
+
+---
+
+https://share.gemini.google/YI4srmSP08wn
