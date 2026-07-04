@@ -1,5 +1,6 @@
-Networking
-Networking Core Protocols
+# Lab Room: Networking Core Protocols
+### Date Completed: 4 July 2026
+### Tools: tryhackme attack box
 
 ---
 
@@ -215,3 +216,7 @@ IMAP commands are structurally unique. They require an alphanumeric prefix tag (
 * **`B SELECT inbox`:** Explicitly mounts an internal folder directory to parse targeting streams.
 * **`C FETCH 4 body[]`:** Pulls the explicit body and header array of a targeted index entry. This command is highly customizable; it can request specific parameters, like `FETCH 4 (FLAGS)` or `FETCH 4 (BODY[HEADER])`, to minimize bandwidth.
 * **`D LOGOUT`:** Ends the synchronized state machine session.
+
+---
+
+https://share.gemini.google/l3yejBRgH32f
