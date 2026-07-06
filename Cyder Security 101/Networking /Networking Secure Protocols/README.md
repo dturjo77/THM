@@ -1,5 +1,6 @@
-Networking
-Networking Secure Protocols
+# Lab Room: Networking Secure Protocols
+### Date Completed: 6 July 2026
+### Tools: tryhackme attack box
 
 ---
 
